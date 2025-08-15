@@ -1,4 +1,4 @@
-#### Spotify-Rails web app
+
 ###### Required libraries/dependencies
 - Ruby/Rails
 - PostgreSQL
